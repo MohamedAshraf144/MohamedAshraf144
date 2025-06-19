@@ -10,7 +10,7 @@
 
 ## 🎯 About Me
 
-- 🎓 **Recently graduated** with B.Sc. in Computer Science (GPA: 3.12 - Very Good)
+- 🎓 **Recently graduated** with B.Sc. in Computer Science (GPA: 3.1 - Very Good)
 - 💼 **1+ year** of hands-on experience in web development and problem-solving
 - 🛡️ **Military Status**: Exempted - Ready to start immediately
 - 🔧 **Specialized in**: .NET technologies, Clean Architecture, and RESTful API development
